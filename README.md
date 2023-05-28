@@ -7,7 +7,7 @@ This application is an e-commerce application where users can buy the goods they
 ## Technology Used
 
 1. Dart - Flutter
-2. PHP - Laravel
+2. PHP - [Laravel](https://github.com/Frans-Budi/shamo-api)
 
 ## Application Features
 
